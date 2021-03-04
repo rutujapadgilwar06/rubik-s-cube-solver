@@ -4,14 +4,14 @@ Given an image of cube face to webcam and solve the rubik cube.
 
 ## Installation
 The package is hosted on PyPI.
-'''
+```
 $ pip install rubik_solver
 $ pip install kociemba
-'''
+```
 
 ## cube notation
 The names of the facelet positions of the cube (letters stand for Up, Left, Front, Right, Back, and Down)
-'''
+```
              |************|
              |*U1**U2**U3*|
              |************|
@@ -32,23 +32,24 @@ The names of the facelet positions of the cube (letters stand for Up, Left, Fron
              |*D4**D5**D6*|
              |************|
              |*D7**D8**D9*|
-             |************|'''
+             |************|
+   ```
              
    ### How To Use
    
-   1 Run following file.
-   '''
+   1. Run following file.
+   ```
    $ rubik_cube_solver.py
-   '''
-   2 You must scan the sides in U,L,F,R,B,D  
+   ```
+   2. You must scan the sides in U,L,F,R,B,D  
    * (Upper center): YELLOW
    * (Left center): BLUE
    * (Front center): RED
    * (Right center): GREEN
    * (Back center): ORANGE
    * (Down center): WHITE
-   3 Press "c" everytime to Scan cube face
-   4 Press "s" to start process  
+   3. Press "c" everytime to Scan cube face
+   4. Press "s" to start process  
    
              
  
