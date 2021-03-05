@@ -56,5 +56,8 @@ The names of the facelet positions of the cube (letters stand for Up, Left, Fron
    
 https://user-images.githubusercontent.com/80000090/110075035-2e517480-7da8-11eb-860a-56b14897e0d7.mp4
 
-             
+   
+   ##### Read article on medium for understand all steps
+   
+   https://rutuja-padgilwar.medium.com/how-i-made-straightforward-3-3-rubik-cube-solver-using-opencv-python-a2829c99dd94
  
