@@ -54,8 +54,7 @@ The names of the facelet positions of the cube (letters stand for Up, Left, Fron
    
    ### rubik cube solver demo
    
-https://user-images.githubusercontent.com/80000090/110065071-618a0880-7d94-11eb-8d60-d54ef4a0b92d.mp4
-
+https://user-images.githubusercontent.com/80000090/110075035-2e517480-7da8-11eb-860a-56b14897e0d7.mp4
 
              
  
