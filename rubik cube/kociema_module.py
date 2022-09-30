@@ -3,8 +3,8 @@ import cv2
 import numpy as np
 import time
 from rubik_solver import utils
-from drawLine import *
-import winsound
+from  drawLine import *
+import playsound # Cross-platform alternative
 def kociema(color_list):
 	
 	cube = ""
@@ -70,7 +70,7 @@ def kociema(color_list):
 
 		frame_idx += 1
 		if frame_idx > frame_reset_cnt:
-			winsound.Beep(500,300)
+			playsound.playsound('beep.wav') # Plays from pre-made audio file of beep
 			cv2.putText(cubeImg, "next", (int(cubeImg.shape[1]/4), 30), cv2.FONT_HERSHEY_COMPLEX_SMALL, 1, (0,255,0))
 			
 			result_index += 1

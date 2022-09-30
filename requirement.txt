@@ -1,5 +1,5 @@
 numpy
 cv2
 utils
-winsound
+playsound
 kociemba
